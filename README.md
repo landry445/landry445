@@ -1,5 +1,3 @@
-## 👨‍🍳 Hi there, I'm Landry Dupont! 👋
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/landry-dupont-7110a0222)
 
