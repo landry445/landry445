@@ -3,7 +3,7 @@
 Passionné par l'art de la pâtisserie, j'ai passé plusieurs années à créer des délices sucrés avant de me reconvertir en développeur web. Aujourd'hui, j'applique la même rigueur et créativité que j'avais en cuisine pour coder des applications web intuitives et performantes. Toujours prêt à apprendre et à relever de nouveaux défis, je suis constamment à la recherche de projets innovants.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/landrydupont)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/landry-dupont-7110a0222)
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
